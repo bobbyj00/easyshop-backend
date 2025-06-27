@@ -1,30 +1,4 @@
-# Java
-*.class
-*.jar
-*.war
-*.log
-
-# Build directory
-/target/
-
-# IntelliJ IDEA
-.idea/
 *.iml
-*.iws
 *.ipr
-out/
 
-# OS files
-.DS_Store
-Thumbs.db
 
-# Logs
-logs/
-*.log
-
-# Database (optional)
-*.db
-*.sql
-
-# Environment files (optional)
-.env
