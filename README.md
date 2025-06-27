@@ -25,5 +25,4 @@ public class CategoriesController {
         return categoryDao.create(category);
     }
 
-    // Other CRUD endpoints omitted for brevity...
 }
